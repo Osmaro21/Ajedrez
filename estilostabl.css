@@ -1,0 +1,13 @@
+#ajedrez{
+	empty-cells: show;
+	width: 500px;
+	height: 500px;
+}
+
+.amarillo{
+	background-color: #f0e68c;
+}
+
+.marron{
+	background-color: #8b4513;
+}
